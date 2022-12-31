@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.833fc0bf.chunk.css",
+    "main.js": "/static/js/main.b458eb88.chunk.js",
+    "main.js.map": "/static/js/main.b458eb88.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9ecc0a23.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9ecc0a23.js.map",
+    "static/js/2.7b26f0cb.chunk.js": "/static/js/2.7b26f0cb.chunk.js",
+    "static/js/2.7b26f0cb.chunk.js.map": "/static/js/2.7b26f0cb.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.833fc0bf.chunk.css.map": "/static/css/main.833fc0bf.chunk.css.map",
+    "static/js/2.7b26f0cb.chunk.js.LICENSE.txt": "/static/js/2.7b26f0cb.chunk.js.LICENSE.txt",
+    "static/media/average.d302f888.svg": "/static/media/average.d302f888.svg",
+    "static/media/bars.7dae0fa3.svg": "/static/media/bars.7dae0fa3.svg",
+    "static/media/busy.7caa8b65.svg": "/static/media/busy.7caa8b65.svg",
+    "static/media/calm.dff4c026.svg": "/static/media/calm.dff4c026.svg",
+    "static/media/cheap.63284d40.svg": "/static/media/cheap.63284d40.svg",
+    "static/media/city-wide.8d92ab61.svg": "/static/media/city-wide.8d92ab61.svg",
+    "static/media/clubs.b606d9e3.svg": "/static/media/clubs.b606d9e3.svg",
+    "static/media/dead.8529bb2c.svg": "/static/media/dead.8529bb2c.svg",
+    "static/media/discord.5cd9c03a.svg": "/static/media/discord.5cd9c03a.svg",
+    "static/media/expensive.c778c4e5.svg": "/static/media/expensive.c778c4e5.svg",
+    "static/media/instagram.cd305fcf.svg": "/static/media/instagram.cd305fcf.svg",
+    "static/media/lounges.67dc278c.svg": "/static/media/lounges.67dc278c.svg",
+    "static/media/luxury.6aa1353f.svg": "/static/media/luxury.6aa1353f.svg",
+    "static/media/nearby.4b55ae7a.svg": "/static/media/nearby.4b55ae7a.svg",
+    "static/media/no-limit.64de6d20.svg": "/static/media/no-limit.64de6d20.svg",
+    "static/media/oops.5262b2e9.svg": "/static/media/oops.5262b2e9.svg",
+    "static/media/packed.824d9c26.svg": "/static/media/packed.824d9c26.svg",
+    "static/media/pubs.7e155459.svg": "/static/media/pubs.7e155459.svg",
+    "static/media/smile-welcome.6cd6ab0a.svg": "/static/media/smile-welcome.6cd6ab0a.svg",
+    "static/media/walkable.8e6a2b2e.svg": "/static/media/walkable.8e6a2b2e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ecc0a23.js",
+    "static/js/2.7b26f0cb.chunk.js",
+    "static/css/main.833fc0bf.chunk.css",
+    "static/js/main.b458eb88.chunk.js"
+  ]
+}
